@@ -1,0 +1,29 @@
+{
+  "repo": "sound-forge-pro-suite-audio",
+  "product": "Sound Forge Pro Suite Audio",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://sound-forge.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "sound-forge",
+    "audio-editing",
+    "wave-editor",
+    "mastering-tools",
+    "audio-restoration",
+    "podcast-editing",
+    "multitrack-audio",
+    "music-editing",
+    "sound-forge-setup-failed-fix",
+    "how-to-install-sound-forge",
+    "sound-forge-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 16,
+  "nexpath_slug": "sound-forge",
+  "nexpath_app_name": "Sound Forge"
+}
